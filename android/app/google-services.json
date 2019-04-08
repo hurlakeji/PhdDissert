@@ -1,0 +1,35 @@
+{
+    "project_info": {
+      "project_number": "517791189686",
+      "firebase_url": "https://dissert-services.firebaseio.com",
+      "project_id": "dissert-services",
+      "storage_bucket": "dissert-services.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:517791189686:android:0f8390ed45ce0a05",
+          "android_client_info": {
+            "package_name": "com.dissert"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC18Ot3xX9AAYBLqNzv24noULt6keWG5Ek"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "517791189686-r79ro0uc8e9sfgeupjt7ghmgogb7vp4o.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
